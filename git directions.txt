@@ -1,0 +1,6 @@
+git --config user.name "ausername"
+git --config user.email "useremail"
+
+git works in your softwares project folder 
+cd to the folder type git --init it will automatially make subdirectory that is hidden. 
+repository 
